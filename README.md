@@ -5,6 +5,7 @@
 # 目录
 * [中式菜品](https://github.com/Doumiaoya/home-cooking-recipes/blob/main/Class1.md) 
 1. [糖醋排骨](中式菜品01.md)
+2. [鸡蛋炒西红柿](中式菜品02.md)
 
 * [中式面点](https://github.com/Doumiaoya/home-cooking-recipes/blob/main/Class2.md)
 * 
