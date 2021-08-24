@@ -16,4 +16,5 @@
 3. [豆沙/肉松面包](西式甜点03.md)
 4. [椰蓉面包](西式甜点04.md)
 5. [kladdkaka](西式甜点05.md)
+6. [kaka med äpple eller bär](西式甜点06.md)
 
