@@ -17,4 +17,5 @@
 4. [椰蓉面包](西式甜点04.md)
 5. [kladdkaka](西式甜点05.md)
 6. [kaka med äpple eller bär](西式甜点06.md)
+7. [蓝莓派](西式甜点07.md)
 
